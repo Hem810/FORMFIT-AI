@@ -7,6 +7,7 @@ An AI-powered fitness companion that provides real-time guidance and training en
 3. [Test](#test)
 4. [Run](#run)
 5. [Features](#features)
+6. [Use](#use)
 
 
 ## About
@@ -52,6 +53,7 @@ To test the setup run
 1.The code gives the option to train on prebuilt workouts as well a create personal workouts from the given 
   set of exerscies and then use that to train.
 2.The code will analyse the angles between different points on the body and give suggestion if your pose is incorrect.
+
 ## Use
 1.The first page is just the homepage
 
