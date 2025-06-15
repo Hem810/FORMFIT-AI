@@ -1,0 +1,11 @@
+numpy
+onnxruntime-qnn
+Pillow
+pytest
+setuptools
+torch
+torchvision
+netron
+notebook
+torchvision
+opencv-python
