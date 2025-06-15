@@ -1,2 +1,44 @@
 # FORMFIT-AI
 An AI-powered fitness companion that provides real-time guidance and training entirely on-device using edge AI technology.
+
+## Table of Contents
+1. [About](#about)
+2. [Setup](#setup)
+3. [Run](#run)
+4. [Features](#features)
+
+## About
+FORMFIT-AI is an intelligent fitness companion application that leverages edge AI capabilities for real-time workout guidance, form correction, and exercise tracking. The application is specifically designed for Qualcomm Snapdragon X-powered devices, utilizing on-device AI processing for pose detection and analysis to ensure privacy and low-latency performance[1][2].
+On the Snapdragon X Elite, the model is optimized to leverage the Neural Processing Unit (NPU) at inference runtime. Elsewhere, it will run using the CPU.
+
+## Setup
+Follow these steps to setup the app for your platform. 
+   1.git clone https://github.com/hem810/FORMFIT-AI.git
+   2.cd FORMFIT-AI
+   3. Create virtual environment
+      ```
+      python -m venv venv
+      ```
+   3. Activate virtual environment
+      ```
+      venv\Scripts\activate #windows
+      ```
+   4. Install dependencies
+      ```
+      >> pip install -r requirements.txt
+      ```
+   5. Download model from AI Hub 
+      https://aihub.qualcomm.com/compute/models/hrnet_pose?domain=Computer+Vision&useCase=Pose+Estimation
+
+   6. Transfer model to qnn_sample_apps/models/
+      ```
+      >> mv Downloads/hrnet_pose.onnx FORMFIT-AI/models/
+      ```
+## Run
+<!-- **To run:** </br> -->
+```
+>> python scripts/main.py (from FORMFIT-AI directory)
+```
+
+## Features
+
