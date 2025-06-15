@@ -53,8 +53,11 @@ To test the setup run
   set of exerscies and then use that to train.
 2.The code will analyse the angles between different points on the body and give suggestion if your pose is incorrect.
 ## Use
-1.The first page is just the homepage\n
-2. The generate workout page you can seect the exerscies from the left and the set the reps and number of sets on the right and click create workout.Then you will be prompted to enter the name.after you enter the name click on the bottom right button to continue.\n
-3.Then select the workout on the select_workout page\n
+1.The first page is just the homepage
+
+2. The generate workout page you can seect the exerscies from the left and the set the reps and number of sets on the right and click create workout.Then you will be prompted to enter the name.after you enter the name click on the bottom right button to continue.
+
+3.Then select the workout on the select_workout page
+
 4.Click on start on the last page to start the workout.You can use the next to skip the exescise or stop to quit.\n
 
