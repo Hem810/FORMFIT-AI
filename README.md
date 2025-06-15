@@ -61,5 +61,5 @@ To test the setup run
 
 3.Then select the workout on the select_workout page
 
-4.Click on start on the last page to start the workout.You can use the next to skip the exescise or stop to quit.\n
+4.Click on start on the last page to start the workout.You can use the next to skip the exescise or stop to quit.
 
