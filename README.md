@@ -4,7 +4,7 @@ An AI-powered fitness companion that provides real-time guidance and training en
 ## Table of Contents
 1. [About](#about)
 2. [Setup](#setup)
-3. [Test Setup](#test setup)
+3. [Test](#test setup)
 4. [Run](#run)
 
 
