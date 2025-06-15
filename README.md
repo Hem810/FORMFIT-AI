@@ -4,8 +4,9 @@ An AI-powered fitness companion that provides real-time guidance and training en
 ## Table of Contents
 1. [About](#about)
 2. [Setup](#setup)
-3. [Run](#run)
-4. [Features](#features)
+3. [Test Setup](#test setup)
+4. [Run](#run)
+
 
 ## About
 FORMFIT-AI is an intelligent fitness companion application that leverages edge AI capabilities for real-time workout guidance, form correction, and exercise tracking. The application is specifically designed for Qualcomm Snapdragon X-powered devices, utilizing on-device AI processing for pose detection and analysis to ensure privacy and low-latency performance[1][2].
@@ -35,7 +36,11 @@ On the Snapdragon X Elite, the model is optimized to leverage the Neural Process
       ```
       >> mv Downloads/hrnet_pose.onnx FORMFIT-AI/models/
       ```
-
+## Test Setup
+To test the setup run
+```
+ >>python test_setup.py
+```
 ## Run
 (from FORMFIT-AI directory)
 ```
