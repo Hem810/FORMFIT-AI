@@ -38,9 +38,9 @@ On the Snapdragon X Elite, the model is optimized to leverage the Neural Process
 
    ```
 ## Run
-<!-- **To run:** </br> -->
+(from FORMFIT-AI directory)
 ```
->> python scripts/main.py (from FORMFIT-AI directory)
+>> python scripts/main.py 
 ```
 
 ## Features
