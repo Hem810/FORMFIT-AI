@@ -36,7 +36,6 @@ On the Snapdragon X Elite, the model is optimized to leverage the Neural Process
       >> mv Downloads/hrnet_pose.onnx FORMFIT-AI/models/
       ```
 
-   ```
 ## Run
 (from FORMFIT-AI directory)
 ```
