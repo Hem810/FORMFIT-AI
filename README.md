@@ -4,7 +4,7 @@ An AI-powered fitness companion that provides real-time guidance and training en
 ## Table of Contents
 1. [About](#about)
 2. [Setup](#setup)
-3. [Test](#test setup)
+3. [Test](#test)
 4. [Run](#run)
 
 
@@ -36,7 +36,7 @@ On the Snapdragon X Elite, the model is optimized to leverage the Neural Process
       ```
       >> mv Downloads/hrnet_pose.onnx FORMFIT-AI/models/
       ```
-## Test Setup
+## Test
 To test the setup run
 ```
  >>python test_setup.py
